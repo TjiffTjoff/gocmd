@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "ifconfig",
+    "Path": "/sbin/ifconfig",
+    "Args": []
+  },
+  {  
+    "Name": "route",
+    "Path": "/sbin/route",
+    "Args": [ "-n" ]
+  }
+]
